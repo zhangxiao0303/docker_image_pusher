@@ -5,4 +5,5 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 fatedier/frps:v0.38.0
-lanraragi_cn
+dezhao/lanraragi_cn
+
