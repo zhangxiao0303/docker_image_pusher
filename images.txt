@@ -6,4 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 fatedier/frps:v0.38.0
 dezhao/lanraragi_cn
+gotson/komga
 
