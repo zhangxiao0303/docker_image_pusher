@@ -8,4 +8,4 @@ fatedier/frps:v0.38.0
 dezhao/lanraragi_cn
 gotson/komga
 lkw199711/smanga
-
+memcached
