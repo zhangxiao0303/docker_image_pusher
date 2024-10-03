@@ -5,7 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 fatedier/frps:v0.38.0
-dezhao/lanraragi_cn
-gotson/komga
-lkw199711/smanga
-memcached
+talebook/talebook
